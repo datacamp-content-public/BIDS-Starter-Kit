@@ -1,7 +1,7 @@
 ---
-title: Test
+title: BIDS chapter 1
 description: >-
-  Test
+  BIDS chapter 1 subtext
 
 
 ---
@@ -31,7 +31,6 @@ import json
 ```{python}
 % sample code %
 % initialize your variables %
-
 ```
 
 
